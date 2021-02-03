@@ -1,2 +1,3 @@
 # tscoin
-Proof-of-Stake blockchain cryptocurrency implemented in TypeScript for learning purposes
+
+A simple blockchain implementing proof-of-stake in TypeScript for learning purposes
